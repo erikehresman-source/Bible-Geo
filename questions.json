@@ -1,0 +1,143 @@
+[
+  {
+    "answer": "Jerusalem",
+    "clue": "City where David reigned and the temple stood; central in both Hebrew Scriptures and the Gospels.",
+    "hint": "City of peace; Temple Mount is here.",
+    "aliases": [
+      "Yerushalayim"
+    ],
+    "tags": {
+      "region": "Judea",
+      "country": "Israel/Palestine",
+      "capital": true,
+      "major_city": true
+    },
+    "themes": [
+      "conquest_kings",
+      "prophets",
+      "gospels",
+      "major_cities"
+    ],
+    "map": {
+      "x": 43,
+      "y": 63
+    }
+  },
+  {
+    "answer": "Mount of Olives",
+    "clue": "Ridge east of Jerusalem where Jesus often met with his disciples and prayed.",
+    "hint": "Garden of Gethsemane is on its slopes.",
+    "aliases": [
+      "Mt of Olives",
+      "Mount Olivet",
+      "Olivet"
+    ],
+    "tags": {
+      "region": "Judea",
+      "country": "Israel/Palestine"
+    },
+    "themes": [
+      "gospels"
+    ],
+    "map": {
+      "x": 44.5,
+      "y": 62.5
+    }
+  },
+  {
+    "answer": "Bethlehem",
+    "clue": "Birthplace of Jesus, associated with David\u2019s lineage.",
+    "hint": "House of Bread; south of Jerusalem.",
+    "tags": {
+      "region": "Judea",
+      "country": "Israel/Palestine",
+      "major_city": true
+    },
+    "themes": [
+      "gospels",
+      "conquest_kings",
+      "major_cities"
+    ],
+    "map": {
+      "x": 43,
+      "y": 66
+    }
+  },
+  {
+    "answer": "Sychar",
+    "clue": "Town in Samaria where Jesus spoke to a Samaritan woman at the well.",
+    "hint": "Near Mount Gerizim; Jacob\u2019s well was located here.",
+    "aliases": [
+      "Samaria"
+    ],
+    "tags": {
+      "region": "Samaria",
+      "country": "Israel/Palestine"
+    },
+    "themes": [
+      "gospels"
+    ],
+    "map": {
+      "x": 42.5,
+      "y": 54
+    }
+  },
+  {
+    "answer": "Damascus",
+    "clue": "Capital of Aram where Saul (Paul) later escaped by basket.",
+    "hint": "On the road to this city, Saul had a vision.",
+    "tags": {
+      "region": "Syria",
+      "country": "Syria",
+      "capital": true,
+      "major_city": true
+    },
+    "themes": [
+      "prophets",
+      "early_christianity",
+      "major_cities"
+    ],
+    "map": {
+      "x": 58,
+      "y": 47
+    }
+  },
+  {
+    "answer": "Nineveh",
+    "clue": "Assyrian capital where Jonah preached.",
+    "hint": "On the Tigris River, opposite modern Mosul.",
+    "tags": {
+      "region": "Assyria",
+      "country": "Iraq",
+      "capital": true,
+      "major_city": true
+    },
+    "themes": [
+      "prophets",
+      "major_cities"
+    ],
+    "map": {
+      "x": 79,
+      "y": 39
+    }
+  },
+  {
+    "answer": "Rome",
+    "clue": "Capital of the empire that ruled during the time of the apostles.",
+    "hint": "Paul appealed to Caesar here.",
+    "tags": {
+      "region": "Italy",
+      "country": "Italy",
+      "capital": true,
+      "major_city": true
+    },
+    "themes": [
+      "early_christianity",
+      "major_cities"
+    ],
+    "map": {
+      "x": 5,
+      "y": 30
+    }
+  }
+]
